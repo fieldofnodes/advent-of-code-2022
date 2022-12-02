@@ -1,3 +1,5 @@
 [deps]
 Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
